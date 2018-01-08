@@ -1,4 +1,4 @@
-# Statistical-Pattern-Recognition-Project-2014
+# Statistical-Pattern-Recognition-Project-2015
 
 The dataset ”Data 20” from ”http://wwwf.imperial.ac.uk/ eakc07/S7/data20.dat”
 contains 1103 observations with 28 features and their corresponding class indicators.
